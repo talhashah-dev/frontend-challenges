@@ -1,0 +1,28 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+/* .up , .down{
+    width: 100%;
+}
+
+.up{
+    background-color: green;
+    height: 60%;
+}
+
+.down{
+    background-color: aqua;
+    height: 40%;
+} */
